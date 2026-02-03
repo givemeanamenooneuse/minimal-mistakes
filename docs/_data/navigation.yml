@@ -28,6 +28,8 @@ main:
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
+  - title: "相簿"
+    url: /albums/00cutgx012541/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
